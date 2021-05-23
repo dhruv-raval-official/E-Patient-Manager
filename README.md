@@ -44,3 +44,5 @@ Manage Patient papperlessly and more efficiently.
 - Online Medical stores collaborations ( like 1mg, medart etc... )
 
 ## Demo Video Url :
+
+Developed and Designed by [Dhruv Raval](https://rvldhruv.wordpress.com/)
