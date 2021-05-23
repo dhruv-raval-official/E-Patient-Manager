@@ -10,6 +10,7 @@
 - Currently in hospitals due to covid other critical disease patients management is became time consuming and less prioritize. 
 - To overcome that problem I have designed this E-patient Manager. 
 - In this system hospitals can manage all disease patients very efficiently and get their reports easily.
+- setup project in your local machin [Setup E-Patient Manager wiki page](https://github.com/dhruv-raval-official/E-Patient-Manager/wiki/Setup-Project-in-your-local-machine)
 # Tools and Technologies
 - Backend Technologies: PHP Version 5.6.28 
 - Frontend Technologies: HTML, CSS3/Bootstrap, JS/Jquery v3.3.1
