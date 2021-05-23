@@ -30,4 +30,6 @@ This web application can be used to manage patients and track there diagnosis. E
 # Process Flowchart
 ![emp flowchart](https://user-images.githubusercontent.com/84666115/119259339-733cb880-bbeb-11eb-849c-55aac779a255.png)
 # Data Flow Diagram
+# class Diagram
+![epm diagram](https://user-images.githubusercontent.com/84666115/119261087-615f1380-bbf3-11eb-8300-dc4983480c2b.png)
 
