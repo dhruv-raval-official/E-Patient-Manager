@@ -1,0 +1,23 @@
+.web-user {
+    float: right;
+    padding: 0px 20px;
+    font-weight: 700;
+    color: rgb(4, 78, 75);
+    text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191;
+}
+
+.web-title {
+    padding: 0px 20px;
+    font-weight: 700;
+    color: rgb(12, 6, 53);
+    text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191;
+}
+
+.logout:hover {
+    color: tomato;
+}
+
+.username-txt:hover {
+    color: rgb(91, 2, 99);
+    cursor: pointer;
+}

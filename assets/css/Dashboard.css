@@ -1,0 +1,50 @@
+.main-box {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 25px;
+}
+
+.sub-box {
+    border: 2px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    padding: 30px;
+    margin: 30px 30px;
+    font-weight: 500px;
+    width: 33%;
+    max-width: 300px;
+    min-width: 200px;
+}
+
+.sub-box:hover {
+    cursor: pointer;
+    box-shadow: 2px 1px 15px 0px black;
+}
+
+.user:hover {
+    box-shadow: 2px 1px 15px 0px darkcyan !important;
+}
+
+.count {
+    background: darkcyan;
+    color: white;
+    font-weight: 700;
+    padding: 10px;
+    margin: 0px 35%;
+    border-radius: 40px;
+}
+
+.sub-user-box {
+    color: white;
+    background: darkcyan;
+    padding: 5px;
+    margin: 0px 15px;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    text-decoration: none;
+}

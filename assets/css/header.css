@@ -1,0 +1,85 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.logo-box {
+    margin: 0px 30px;
+    display: block;
+}
+
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+    justify-content: flex-start;
+    padding: 8px 16px;
+    width: 100%;
+}
+
+.text-logo {
+    /* position: absolute;
+    left: 0%;
+    top: 17px; */
+    display: inline;
+    transform: translate(50%, -50%);
+    text-transform: uppercase;
+    font-family: verdana;
+    font-size: 25px;
+    font-weight: 700;
+    color: #f5f5f5;
+    text-shadow: 1px 1px 1px #919191, 1px 2px 1px #919191, 1px 3px 1px #919191, 1px 4px 1px #919191, 1px 5px 1px #919191, 1px 6px 1px #919191, 1px 7px 1px #919191, 1px 8px 1px #919191, 1px 9px 1px #919191, 1px 10px 1px #919191, 1px 18px 6px rgba(16, 16, 16, 0.4), 1px 22px 10px rgba(16, 16, 16, 0.2), 1px 25px 35px rgba(16, 16, 16, 0.2), 1px 30px 60px rgba(16, 16, 16, 0.4);
+}
+
+.navbar a {
+    float: left;
+    font-size: 16px;
+    color: white !important;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.subnav {
+    float: left;
+    overflow: hidden;
+}
+
+.subnav .subnavbtn {
+    font-size: 16px;
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    margin: 0;
+}
+
+.navbar a:hover,
+.subnav:hover .subnavbtn {
+    background-color: #006666;
+}
+
+.subnav-content {
+    display: none;
+    position: fixed;
+    left: 0;
+    background-color: #006666;
+    width: 100%;
+    z-index: 1;
+}
+
+.subnav-content a {
+    float: left;
+    color: white;
+    text-decoration: none;
+}
+
+.subnav-content a:hover {
+    background-color: rgb(46, 36, 36);
+    color: black;
+}
+
+.subnav:hover .subnav-content {
+    display: block;
+}

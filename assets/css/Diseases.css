@@ -1,0 +1,116 @@
+.custom-container {
+    width: 95%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 50px;
+}
+
+.add-btn {
+    float: right;
+}
+
+.action-btn {
+    padding: 5px 30px;
+    margin: 5px 5px;
+    font-size: 15px;
+    background: transparent;
+}
+
+.action-btn:hover {
+    background: blueviolet;
+    cursor: pointer;
+    color: white;
+    font-weight: 700;
+}
+
+.success-banner {
+    padding: 5px 30px;
+    background: linear-gradient(to bottom, #00cc66 0%, #33cc33 100%);
+    margin: 10px 20px;
+    display: none;
+}
+
+.success-banner span {
+    font-size: 20px;
+    color: white;
+}
+
+.error-banner {
+    padding: 5px 30px;
+    background: linear-gradient(to bottom, #ff3300 0%, #ff0000 100%);
+    margin: 10px 20px;
+    display: none;
+}
+
+.error-banner span {
+    font-size: 20px;
+    color: white;
+}
+
+.btn-custom {
+    margin-top: 3px;
+    padding: 10px;
+    color: black;
+}
+
+.btn-custom:hover {
+    margin-top: 3px;
+    background: burlywood;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
+.close-btn {
+    float: right;
+    color: black;
+    padding: 10px;
+}
+
+.update-model {
+    display: flex;
+    padding: 10px 20px;
+    margin: 5px;
+    border: 2px solid #45d6f3;
+    background: #bdece5;
+    border-radius: 5px;
+    justify-content: space-evenly;
+}
+
+.add-model {
+    display: flex;
+    padding: 10px 20px;
+    margin: 5px;
+    border: 2px solid #45d6f3;
+    background: #bdece5;
+    border-radius: 5px;
+    justify-content: space-evenly;
+}
+
+form {
+    display: flex;
+}
+
+.form-row {
+    margin: 10px 20px;
+    width: auto;
+}
+
+.form-lable {
+    font-weight: 700;
+    height: 30px;
+}
+
+.submit {
+    margin-top: 50px;
+}
+
+.action {
+    text-align: center;
+}
+
+.costom-notification .close-btn {
+    padding: 0px;
+    margin-top: -5px;
+}
