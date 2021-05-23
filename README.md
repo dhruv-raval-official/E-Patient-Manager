@@ -15,10 +15,10 @@ Manage Patient papperlessly and more efficiently.
 - In this system hospitals can manage all disease patients very efficiently and get their reports easily.
 - setup project in your local machin [Setup E-Patient Manager wiki page](https://github.com/dhruv-raval-official/E-Patient-Manager/wiki/Setup-Project-in-your-local-machine)
 ## Tools and Technologies
-- Backend Technologies: PHP Version 5.6.28 
-- Frontend Technologies: HTML, CSS3/Bootstrap, JS/Jquery v3.3.1
-- Database server: MySQL v 10.1.19 
-- Tools: Visual Studio Code 1.56.2, xampp server v3.2.2
+- **Backend Technologies:** PHP Version 5.6.28 
+- **Frontend Technologies:** HTML, CSS3/Bootstrap, JS/Jquery v3.3.1
+- **Database server:** MySQL v 10.1.19 
+- **Tools:** Visual Studio Code 1.56.2, xampp server v3.2.2
 ## List of Features Developed in system
 - Manage Patients 
 - Manage Patients Diagnosis 
