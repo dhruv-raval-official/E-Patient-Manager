@@ -1,0 +1,112 @@
+.custom-container {
+    width: 95%;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 10px;
+}
+
+.filter-switch {
+    float: right;
+}
+
+.success-banner {
+    padding: 5px 30px;
+    background: linear-gradient(to bottom, #00cc66 0%, #33cc33 100%);
+    margin: 10px 20px;
+}
+
+.add-btn {
+    float: right;
+    margin-left: 10px;
+}
+
+.exportToExcel {
+    float: right;
+    margin-left: 10px;
+}
+
+.success-banner span {
+    font-size: 20px;
+    color: white;
+}
+
+.error-banner {
+    padding: 5px 30px;
+    background: linear-gradient(to bottom, #ff3300 0%, #ff0000 100%);
+    margin: 10px 20px;
+}
+
+.error-banner span {
+    font-size: 20px;
+    color: white;
+}
+
+.btn-custom {
+    margin-top: 3px;
+    color: white;
+}
+
+.close-btn {
+    float: right;
+    color: white;
+}
+
+.Active {
+    color: green;
+    font-weight: 700;
+}
+
+.Pending {
+    color: grey;
+    font-weight: 700;
+}
+
+.close {
+    color: red;
+    font-weight: 700;
+}
+
+.Inactive {
+    color: red;
+    font-weight: 700;
+}
+
+.filter-box {
+    display: flex;
+    border-radius: 10px;
+    border: 2px solid teal;
+    margin: 10px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.filter {
+    display: flex;
+}
+
+.fag {
+    margin: 5px;
+    display: flex;
+}
+
+lable {
+    line-height: 2.5;
+    padding-right: 5px;
+    font-weight: 700;
+}
+
+.title-lable {
+    font-size: 25px;
+    color: teal;
+    margin-left: 20px;
+}
+
+#min {
+    width: 40px;
+}
+
+#max {
+    width: 40px;
+}
